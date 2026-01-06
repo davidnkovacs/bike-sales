@@ -63,3 +63,5 @@ The final dashboard provides a visual summary of the findings, featuring:
 1. **Download:** Clone this repository or download the `.xlsx` file.
 2. **Explore:** Navigate to the `Dashboard` sheet to interact with the slicers.
 3. **Review:** Check the `Pivot Table` to see the underlying pivot tables and the `Working Sheet` sheet for the processed dataset.
+
+> **Note:** This project was completed as part of the Alex the Analyst Excel Portfolio series.
